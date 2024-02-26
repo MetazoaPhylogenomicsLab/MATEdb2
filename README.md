@@ -24,11 +24,11 @@ Some of the data contained in this database have been generated in our lab and w
 <summary><b>Species under embargo</b></summary>
 </br>
 
-- *Hirudo medicinalis *
+- *Hirudo medicinalis*
 
-- *Arenicola marina *
+- *Arenicola marina*
 
-- *Ligia oceanica *
+- *Ligia oceanica*
 
 - *Physella acuta*
 
@@ -40,9 +40,9 @@ Some of the data contained in this database have been generated in our lab and w
 
 - *Leptonemertes chalicophora*
 
-- *Tetrastemma longissimum *
+- *Tetrastemma longissimum*
 
-- *Tetrastemma melanocephalum *
+- *Tetrastemma melanocephalum*
 
 - *Lineus sanguineus*
 
