@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](http://www.gnu.org/licenses/gpl.html)
 
-MATEdb2 (Metazoan Assemblies from Transcriptomic Ensembles) is the second version of a previously published database of high-quality transcriptome assemblies from arthropods and mollusks and obtained using the same pipeline ([MATEdb](https://github.com/MetazoaPhylogenomicsLab/MATEdb/tree/main)). This newer version increases the number of species to 970 from virtually all animal phyla, includes a standardized pipeline for genomes and provides new functional annotation based on natural language processing ([FANTASIA](https://github.com/MetazoaPhylogenomicsLab/FANTASIA)). For transcriptomes, the repository contains (1) de novo transcriptome assembly, (2) its candidate coding regions within transcripts (both at the level of nucleotide and amino acid sequences), (3) the coding regions filtered using their contamination profile (ie, only metazoan content or eukaryote for outgroups), (4) the longest isoforms of the amino acid candidate coding regions, (5) the gene content completeness score as assessed against the BUSCO reference sets, and (6) orthology (eggNOG-mapper) and protein language-based gene annotations ([FANTASIA](https://github.com/MetazoaPhylogenomicsLab/FANTASIA)), and per-protein ProtT5 embeddings. In the case of genomes, only files (4), (5), and (6) are provided in MATEdb2, together with a filtered version of the file (3) with just the longest CDS per gene. 
+MATEdb2 (Metazoan Assemblies from Transcriptomic Ensembles) is the second version of a previously published database of high-quality transcriptome assemblies from arthropods and mollusks and obtained using the same pipeline ([MATEdb](https://github.com/MetazoaPhylogenomicsLab/MATEdb/tree/main)). This newer version increases the number of species to 970 from virtually all animal phyla, includes a standardized pipeline for genomes and provides new functional annotation based on natural language processing ([FANTASIA](https://github.com/MetazoaPhylogenomicsLab/FANTASIA)). For transcriptomes, the repository contains (1) *de novo* transcriptome assembly, (2) its candidate coding regions within transcripts (both at the level of nucleotide and amino acid sequences), (3) the coding regions filtered using their contamination profile (ie, only metazoan content or eukaryote for outgroups), (4) the longest isoforms of the amino acid candidate coding regions, (5) the gene content completeness score as assessed against the BUSCO reference sets, and (6) orthology (eggNOG-mapper) and protein language-based gene annotations ([FANTASIA](https://github.com/MetazoaPhylogenomicsLab/FANTASIA)), and per-protein ProtT5 embeddings. In the case of genomes, only files (4), (5), and (6) are provided in MATEdb2, together with a filtered version of the file (3) with just the longest CDS per gene. 
 
 We invite the community to provide suggestions for new data sets and new annotation features to be included in subsequent versions, that will be permanently stored in public repositories.
 
@@ -18,7 +18,64 @@ Work in progress...
 
 ## Data under embargo
 
-Work in progress...
+Some of the data contained in this database have been generated in our lab and will be used in future publications. We invite others to utilize the data we provide, but we request that they acknowledge our priority in presenting the findings regarding genome-wide analyses for phylogenetic and evolutionary analyses first. This includes publications in scientific journals, pre-print servers like bioRxiv, presentations at public conferences, and press releases. We kindly ask all users to adhere to this embargo policy. As datasets become accessible for use, this section will be updated accordingly.
+
+<details>
+<summary><b>Species under embargo</b></summary>
+</br>
+
+- *Hirudo medicinalis *
+
+- *Arenicola marina *
+
+- *Ligia oceanica *
+
+- *Physella acuta*
+
+- *Theba pisana*
+
+- *Siphonaria pectinata*
+
+- *Phorcus turbinatus*
+
+- *Leptonemertes chalicophora*
+
+- *Tetrastemma longissimum *
+
+- *Tetrastemma melanocephalum *
+
+- *Lineus sanguineus*
+
+- *Bipalium kewense*
+
+- *Caenoplana bicolor*
+
+- *Geoplana quagga*
+
+- *Issoca rezendei*
+
+- *Kontikia ventrolineata*
+
+- *Luteostriata ernesti*
+
+- *Microplana groga*
+
+- *Microplana plurioculata*
+
+- *Microplana scharffi*
+
+- *Microplana nana*
+
+- *Microplana terrestris*
+
+- *Obama braunsi*
+
+- *Obama carinata*
+
+- *Obama nungara*
+
+- *Rhynchodemus sylvaticus*
+</details>
 
 ## How to cite the data repository
 
@@ -86,7 +143,7 @@ Either directly from a browser, going to a data repository:
 
 - Figshare: https://figshare.com
 
-- etc...
+- etc.
 
 Or using the SRA Toolkit version 2.10.7.
 ```
