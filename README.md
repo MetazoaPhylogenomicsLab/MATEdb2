@@ -87,29 +87,27 @@ MATEdb version 2 comprises 970 species, 961 animals (250 genomes and 711 transcr
 
 - Columns Phylum, Lineage, Class, Order, Family, and 'Scientific name' use the described the taxonomy of each species.
 
-- NCBI_Taxonomy_ID refers to the id used by [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy).
+- Taxon ID refers to the id used by [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy).
 
 - Code refers to a four letter code that was selected for each species followed by a number.	Genome_or_Transcriptome	refers to whether the data available for that species comes from a genome or a transcriptome.
 
-- Sequencing_Technology refers to the sequencing technology used to generate the data.
+- Technology refers to the sequencing technology used to generate the data.
 
-- Database and Accession_Number refer to the database used to obtain the raw data and the accession number under which it is stored.
+- Source and Accession_Number refer to the database used to obtain the raw data and the accession number under which it is stored.
 
 - Reference refers to the publication associated with the data used.
 
-- Alternative_repository refers to additional information sources.
+- Extra refers to some additional information regarding the data origin or assembly.
 
 - BUSCO_Database refers to the BUSCO dataset that was used to estimate the genome completeness.
 
 - Trinity_C_plus_F, Trinity_C, Trinity_S, Trinity_D, Trinity_F and Trinity_M refer to the % of Complete plus Fragmented, Complete, Complete Single-copy, Complete Duplicated, Fragmented and Missing genes from the Trinity assembly.
 
-- Filtered_C_plus_F, Filtered_C, Filtered_S, Filtered_D, Filtered_F and Filtered_M refer to the % of Complete plus Fragmented, Complete, Complete Single-copy, Complete Duplicated, Fragmented and Missing genes after filtering the Trinity assembly using BlobTools.
-
 - Protein_Number refers to the final number of proteins after keeping only the longest isoform for each gene.
 
 - C_plus_F, C, S, D, F and M refer to the % of Complete plus Fragmented, Complete, Complete Single-copy, Complete Duplicated, Fragmented and Missing genes after conserving only the longest isoform for each gene.
 
-- Eggnog refers to the number of proteins that have a functional annotation obtained with eggNOG-mapper.
+- EggNOG-mapper refers to the number of proteins that have a functional annotation obtained with eggNOG-mapper.
 
 - FANTASIA refers to the number of proteins that have a functional annotation obtained with FANTASIA.
 
