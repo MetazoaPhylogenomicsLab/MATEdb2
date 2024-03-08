@@ -75,7 +75,7 @@ Some of the data contained in this database have been generated in our lab and w
 
 ## How to cite the data repository
 
-Martínez-Redondo, Gemma I., Cargas-Chávez, Carlos, Eleftheriadi, Klara, Benítez-Álvarez, Lisandra, Vázquez-Valls, Marçal & Fernández, Rosa. MATEdb2, a collection of high-quality metazoan proteomes across the Animal Tree of Life to speed up phylogenomic studies. (2024). 
+Martínez-Redondo, Gemma I., Cargas-Chávez, Carlos, Eleftheriadi, Klara, Benítez-Álvarez, Lisandra, Vázquez-Valls, Marçal & Fernández, Rosa. MATEdb2, a collection of high-quality metazoan proteomes across the Animal Tree of Life to speed up phylogenomic studies. (2024) [https://doi.org/10.1101/2024.02.21.581367](https://doi.org/10.1101/2024.02.21.581367). 
 
 ## Metadata (Needs update of columns name and contents)
 
