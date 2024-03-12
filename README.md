@@ -10,7 +10,7 @@ We invite the community to provide suggestions for new data sets and new annotat
 
 ## MATEdb2 database
 
-Provisionally, links to data can be found in the `linksforMATEdb2.txt` file.
+Links to data can be found in the `linksforMATEdb2.txt` file.
 
 ## Data under embargo
 
