@@ -10,7 +10,11 @@ We invite the community to provide suggestions for new data sets and new annotat
 
 ## MATEdb2 database
 
+<<<<<<< HEAD
 Provisionally, links to data can be found in the [`linksforMATEdb2.txt`](https://github.com/MetazoaPhylogenomicsLab/MATEdb2/blob/main/linksforMATEdb2.txt) file.
+=======
+Links to data can be found in the `linksforMATEdb2.txt` file.
+>>>>>>> b3fa060ab451bec4fa0498209b68e2dc0bc2e981
 
 ## Data under embargo
 
