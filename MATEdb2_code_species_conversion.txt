@@ -1,0 +1,970 @@
+NFUS1	Neochildia fusca
+CSUB1	Childia submaculatum
+CNAI1	Convoluta (Praesagittifera) naikaiensis
+DLON1	Diopisthoporus longitubus
+HMIA1	Hofstenia miamia
+IPUL1	Isodiametra pulchra
+PRUB1	Paratomella rubra
+SYRO2	Symsagittifera roscoffensis
+HCAR1	Hermodice carunculata
+PCAL1	Pareurythoe californica
+GVUL1	Golfingia vulgaris
+PGOU1	Phascolopsis gouldii
+PAGA1	Phascolosoma agassizii
+PHGR1	Phascolosoma granulatum
+SNUD1	Sipunculus nudus
+PBAL1	Psammodrilus balanoglossoides
+CHAE1	Chaetopterus sp. SL-2014
+CVAR1	Chaetopterus variopedatus
+MMIN1	Mesochaetopterus minutus
+PHYL1	Phyllochaetopterus sp. KMH-2014
+DGYR1	Dimorphilus gyrociliatus
+TAXI1	Trilobodrilus axi
+MPIT1	Magelona pitelkai
+MHEE1	Myriochele heeri
+OFUS1	Owenia fusiformis
+HRPE1	Hrabeiella periglandulata
+AEOL1	Aeolosoma sp.
+CMAT1	Carpetania elisae
+NNAJ1	Norana najaformis
+EAND1	Eisenia andrei
+MVUL1	Metaphire vulgaris
+ECRY2	Enchytraeus crypticus
+PVOL1	Propappus volki
+DLER1	Delaya leruthi
+PELO1	Pelodrilus sp. HAPS2
+CYCO1	Cylicobdellidae sp. DSW-2020
+HROB1	Helobdella robusta
+WPIG1	Whitmania pigra
+HMED1	Hirudo medicinalis 
+PHAG1	Phagodrilus sp. DSW-2020
+SHER1	Stylodrilus heringianus
+TSTR1	Trichodrilus strandi
+DRAW1	Drawida sp. KH-2017
+PMEY1	Parvidrilus meyssonnieri
+RAND1	Randiella sp. DSW-2020
+AUJA1	Aulodrilus japonicus
+BASP1	Bathydrilus sp. DSW-2020
+BVEJ1	Bothrioneurum vejdovskyanum
+CDIA1	Chaetogaster diaphanus
+OLAV1	Olavius sp. CE14538
+PASP1	Paranais sp. DSW-2020
+RPIG1	Rhyacodrilus pigueti
+TJUG1	Troglodrilus jugeti
+PHRC1	Phreodrilidae sp. C DSW-2020
+PHRE1	Phreodrilidae sp. A DSW-2020
+MEGA1	Megadrilus sp. A5911
+PCHA1	Protodriloides chaetifer
+PSYM1	Protodriloides symbioticus
+OXIA1	Ophryotrocha xiamen
+HIST1	Histriobdella sp. ET-2021
+NNIG1	Ninoe nigripes
+LIOC1	Laetmonice cf. iocasica ET-2021
+COCC1	Chrysopetalum occidentale
+AFUS1	Amphiduros fuscescens
+LACY1	Lacydonia sp. ET-2021
+LOPA1	Lopadorrhynchus sp. ET-2021
+SCAM1	Struwela camposi 
+NEPH1	Nephtys sp. ET-2021
+AVIR1	Alitta virens
+PAIB1	Perinereis aibuhitensis
+PDUM1	Platynereis dumerilii
+PMED1	Phyllodoce medipapillata
+PVER1	Pilargis verrucosa
+LEYZ1	Lepidonotopodium sp. YZ-2016
+PHBA1	Pholoe baltica
+SGRA1	Sphaerodorum gracilis
+SYGR1	Syllis gracilis
+TOMO1	Tomopteris sp. ET-2021
+TRAV1	Travisiopsis sp. ET-2021
+APAC1	Abarenicola pacifica
+COCO1	Arenicola marina 
+CTEL1	Capitella teleta
+HFIL1	Heteromastus filiformis
+OACU1	Ophelina acuminata
+TMUC1	Thoracophelia mucronata
+SINF1	Scalibregma inflatum
+DSUB1	Diurodrilus subterraneus
+LROB1	Leitoscoloplos robustus
+NDEN1	Naineris dendritica
+PHEI1	Parergodrilus heideri
+SPIN1	Spinther sp. SA-2015
+MOCC1	Manayunkia occidentalis
+AORS1	Anamobaea orstedii
+MINF1	Myxicola infundibulum
+LSAT1	Lamellibrachia satsuma
+OALV1	Oasisia alvinae
+OFRA1	Osedax frankpressi
+PECH1	Paraescarpia echinospica
+RPAC1	Riftia pachyptila
+BWEL1	Boccardia wellingtonensis
+CCIR1	Cirratulus cirratus
+FMUN1	Flabegraviera mundata
+SSCU1	Sternaspis scutata
+APOM1	Alvinella pompejana
+HINV1	Hypania invalida
+MOCU1	Melinna oculata
+NROB1	Neoamphitrite robusta
+TEST1	Terebellides stroemi
+TROS1	Trichobranchus roseus
+CROT1	Carcinoscorpius rotundicauda
+LPOL1	Limulus polyphemus
+TGIG1	Tachypleus gigas
+TTRI1	Tachypleus tridentatus
+RROB1	Rhizoglyphus robini
+PPEL1	Platynothrus peltifer
+BTRO1	Blomia tropicalis
+HRUF1	Hypochthonius rufulus
+NPAL1	Nothrus palustris
+SASC1	Sarcoptes scabiei
+SMAG1	Steganacarus magnus
+HDES1	Halotydeus destructor
+PCIT1	Panonychus citri
+TCIN1	Tetranychus cinnabarinus
+TURT1	Tetranychus urticae
+LDEL1	Leptotrombidium deliense
+DTIN1	Dinothrombium tinctorium
+CIOA1	Charinus ioanniticus
+CISR1	Charinus israelensis
+DAMO1	Damon sp. Maynooth
+PMAR1	Phrynus marginemaculatus
+NOVA1	Novanapis sp. RK-2018
+ABRU1	Argiope bruennichi
+NARA1	Neoscona arabesca
+SRUF1	Sphodros rufipes
+MENN1	Menneus sp. RK-2018
+PARA1	Paramatachia sp. RK-2018
+ARAQ1	Argyroneta aquatica
+SDUM1	Stegodyphus dumicola
+KHIB1	Kukulcania hibernalis
+SCAP1	Sergiolus capulatus
+POTW1	Progradungula otwayensis
+HTHE1	Homalonychus theologus
+ARCH1	Archoleptoneta schusteri
+LTHA1	Liphistius thaleban
+SROV1	Schizocosa rovneri
+MFUL1	Megahexura fulva
+ELEO1	Ero leonina
+MGUT1	Microdipoena guttata
+MLEI1	Mysmena leichhardti
+NICO1	Nicodamidae sp. 2 RK-2018
+OCHY1	Ochyrocera sp. RK-2018
+OECO1	Oecobius cellariorum
+OPOP1	Opopaea sp. RK-2018
+ORSO1	Orsolobidae sp. RK-2018
+PALB1	Pararchaea alba
+PMAN1	Pholcus manueli
+HUST1	Habronattus ustulatus
+SEGE1	Segestria sp. NG-2016
+LDES1	Loxosceles deserta
+PTEP1	Parasteatoda tepidariorum
+TSAV1	Theridiosoma savannum
+TRAD1	Tengella radiata
+DAMP1	Dampetrus sp. RF-2017
+ANEO1	Acropsopilio neozelandiae
+THER1	Theromaster sp. RF-2017
+FMAR1	Fissiphallius martensi
+SLUC1	Saramacia lucasae
+NDUB1	Nemastomella dubia
+MAME1	Metasiro americanus
+TGUL1	Thrasychirus gulosus
+PSCH1	Petrobunus schwendingeri
+ADEN1	Aoraki denticulata
+RMIN1	Rakaia minutissima
+POPI2	Phalangium opilio
+SLOB1	Sitalcina lobata
+PELL1	Pellobunus sp. RF-2017
+HREM1	Homalenotus remyi
+PSIN1	Protolophus singularis
+SBOY1	Siro boyerae
+PLON1	Protimesius longipalpis
+INOD1	Ischyropsalis nodifera
+FDEP1	Fumontana deprehendor
+TMAR1	Trogulus martensi
+EZAR1	Eukoenenia zariquieyi
+PWHE1	Prokoenenia wheeleri
+OROS1	Ornithodoros rostratus
+AAME1	Amblyomma americanum
+DAND1	Dermacentor andersoni
+HEXC1	Hyalomma excavatum
+ISCA1	Ixodes scapularis
+RSAN1	Rhipicephalus sanguineus
+DGAL1	Dermanyssus gallinae
+TMER1	Tropilaelaps mercedesae
+GOCC1	Galendromus occidentalis
+VDES1	Varroa destructor
+VJAC1	Varroa jacobsoni
+NEOC1	Neocarus sp. MCZ IZ 162194
+OPSP1	Opilioacaridae sp. CSL-2018
+OTEX1	Opilioacarus texanus
+BWIT1	Bochica withi
+PAPE1	Parachelifer persimilis
+PROT2	Protochelifer sp. MCZ 49984
+CGEL1	Cybella gelanggi
+SAPI1	Synsphyronus apimelus
+GYMN1	Gymnobisium sp. MCZ 139238
+APOL1	Apolpium sp. MCZ 144360
+PSUB1	Parahya submersa
+PSSP1	Pseudotyrannochthonius sp. B LB-2019
+STSP1	Sternophoridae sp. MCZ 133496
+ICRA1	Ideobisium crassimanum
+CSEG1	Cacodemonius sp. MCZ 144363
+CBEC1	Cryptocellus becki
+CRYP1	Cryptocellus sp. n. RF-2015
+RATE1	Ricinoides atewa
+SPOR1	Stenochrus portoricensis
+CSCU1	Centruroides sculpturatus
+BGRA1	Brotheas granulatus
+UMOR1	Uroctonus mordax
+CCEL1	Chaerilus celebensis
+MGER1	Megacormus gertschi
+SCOR1	Scorpiops sp. PPS-2014
+TSTE1	Troglokhammouanus steineri
+PIMP1	Pandinus imperator
+UELO1	Urodacus elongatus
+SDON1	Superstitionia donensis
+KACA1	Konetontli acapulco
+PBAE1	Paruroctonus baergi
+UHUA1	Uroctonites huachuca
+VMEX1	Vaejovis mexicanus
+GALE2	Galeodes sp. JLF-2018
+SOLP1	Solpugema sp. MCZ 49525
+MGIG1	Mastigoproctus giganteus
+PFLA1	Pallenella flava
+SCHE1	Stylopallene cheilorhynchus
+NMOL1	Nymphon molleri
+NYGR1	Nymphon gracile
+ANIN1	Anoplodactylus insignis
+PFEM1	Phoxichilidium cf. femoratum JB-2020
+PLIT1	Pycnogonum litorale
+TORB1	Tanystylum orbiculare
+CTAS1	Craterostigmus tasmanianus
+HBRE1	Henia brevis
+HILL1	Henia illyrica
+CFLA1	Clinopodes flavidus
+SLIN1	Stenotaenia linearis
+HGAB1	Himantarium gabrielis
+SACU1	Strigamia acuminata
+SMAR2	Strigramia maritima
+MGUI1	Mecistocephalus guildingii
+TJAV1	Tygarrup javanicus
+NGRA1	Notiphilides grandis
+HSUB1	Hydroschendyla submarina
+SCAR1	Schendyla carniolensis
+AGIR1	Anopsobius giribeti
+PVAL1	Paralamyctes validus
+LINI1	Lithobius niger
+CANO1	Cryptops anomalans
+CHOR1	Cryptops hortensis
+TSPI1	Theatops spinicaudus
+AGRA1	Alipes grandidieri
+RIMM1	Rhysida immarginata
+RLON1	Rhysida longipes
+SBAH1	Scolopendropsis bahiensis
+SCIN1	Scolopendra cingulata
+NADI1	Newportia adisi
+SRUB1	Scolopocryptops rubiginosus
+SSEX1	Scolopocryptops sexspinosus
+SCOL3	Scutigera coleoptrata
+TTUB1	Thereuonema tuberculata
+SWEB1	Scutigerina weberi
+CRAS1	Craspedosoma sp. AD-2016
+GMAE1	Glomeris maerens
+HMUL1	Haploglomeris multistriata
+GMIN1	Glomeridella minima
+GLOM1	Glomeridesmus sp. MITS489
+ATON1	Anaulaciulus tonginus
+CYLI1	Cylindroiulus sp. RF-2016
+BLEC1	Brachycybe lecontii
+NNOD1	Niponia nodulosa
+HHOL2	Helicorthomorpha holstii
+PCOM1	Polydesmus complanatus
+PSEU1	Pseudopolydesmus sp. MB-2013
+ETAI1	Eudigraphis taiwanensis
+ETAK1	Eudigraphis takakuwai
+PLAG1	Polyxenus lagurus
+PGER1	Polyzonium germanicum
+TCOR2	Trigoniulus corallinus
+AORN1	Acopauropus ornatus
+PHUX1	Pauropus huxleyi
+SYMP1	Symphylella sp. AD-2014
+HANS2	Hanseniella sp. RF-2016
+HNIV1	Hanseniella nivea
+ASAL1	Artemia salina
+BLIN1	Branchinecta lindahli
+AEMA1	Anchistropus emarginatus
+CHIS1	Cyclestheria hislopi
+OPIL1	Ozestheria pilosa
+ORUB1	Ozestheria rubra
+CCFQ1	Ceriodaphnia quadrangula
+DMAG2	Daphnia magna
+SMUC1	Scapholeberis cf. mucronata
+SVET1	Simocephalus vetulus
+EOCY1	Eocyzicus sp. MCZ IZ 50104
+ETIC1	Eoleptestheria cf. ticinensis MCZ IZ 50108
+EULI1	Eulimnadia sp. MCZ IZ 50085
+PURU1	Paralimnadia urukhai
+LYNC1	Lynceus sp. MCZ IZ 141354
+MACR1	Macrotrichidae
+MOIN1	Moina sp. MCZ IZ 74079
+ENOR1	Evadne cf. nordmanni MCZ IZ 68046
+SCRY1	Sida crystallina
+LAPU1	Lepidurus apus apus
+LCOU1	Lepidurus couessii
+LCRY1	Lepidurus cryptus
+TCAN1	Triops cancriformis
+TGRA1	Triops granarius
+TNEW1	Triops newberryi
+TRIL2	Triops longicaudatus
+LDAH1	Leptestheria dahalacensis
+HMAC1	Hutchinsoniella macracantha
+LINC1	Lightiella incisa
+CFIN1	Calanus finmarchicus
+EAFF1	Eurytemora affinis
+ESER1	Eucyclops serrulatus
+AROY1	Apocyclops royi
+LCYP1	Lernaea cyprinacea
+TICA2	Tigriopus californicus
+TJAP1	Tigriopus japonicus
+ASIA1	Argulus siamensis
+GJAP1	Grandidierella japonica
+EBER1	Echinogammarus berilloni
+GLOC1	Gammarus locusta
+HAZT1	Hyalella azteca
+PHAW1	Parhyale hawaiensis
+NHRA1	Niphargus hrabei
+HQUA1	Halice quarta
+BSCH1	Bathycallisoma schellenbergi
+OGRI1	Orchestia grillus
+PLSP1	Platorchestia sp.
+TASA1	Talitrus saltator
+TRLO1	Trinorchestia longiramus
+AAST1	Astacus astacus
+HALR1	Halocaridina rubra
+NDAV1	Neocaridina davidi
+NEDE1	Neocaridina denticulata
+PARU1	Paratya australiensis
+PRCL1	Procambarus clarkii
+CHAN1	Chorismus antarcticus
+HINE1	Hippolyte inermis
+LWUR1	Lysmata wurdemanni
+HAME2	Homarus americanus
+MNIP2	Macrobrachium nipponense
+PORN1	Panulirus ornatus
+CQUA2	Cherax quadricarinatus
+FCHI1	Fenneropenaeus chinensis
+PMON2	Penaeus monodon
+PVAN1	Penaeus vannamei
+ACHI1	Acetes chinensis
+ESIM1	Eusergestes similis
+LULU1	Lucensosergia lucens
+PARM1	Parasergestes armatus
+BLAT1	Birgus latro
+CCLY1	Coenobita clypeatus
+PCAM1	Paralithodes camtschaticus
+PLAM1	Petrolisthes lamarckii
+CARM1	Cardisoma armatum
+GLAT1	Gecarcinus lateralis
+GALB1	Grapsus albolineatus
+MFRO1	Metopograpsus frontalis
+PAMA1	Pachygrapsus marmoratus
+COPI1	Chionoecetes opilio
+MSCU1	Mithraculus sculptus
+OCER1	Ocypode ceratophthalmus
+PSQU1	Plagusia squamosa
+POTR1	Portunus trituberculatus
+CHHA1	Chiromantes haematocheir
+NIND1	Neosarmatium indicum
+PAFF1	Parasesarma affine
+ESIN1	Eriocheir sinensis
+GDEP1	Gaetice depressus
+MELO1	Metaplax longipes
+LNTO1	Leptodius sp. NTOU-LMT-BRA0070
+UAFR1	Upogebia africana
+EPAC1	Euphausia pacifica
+MNOR1	Meganyctiphanes norvegica
+TINE1	Thysanoessa inermis
+ANAS1	Armadillidium nasatum
+AVUL2	Armadillidium vulgare
+AAQU1	Asellus aquaticus
+LCUL1	Lirceus culveri
+PJAL1	Proasellus jaloniacus
+GANT1	Glyptonotus antarcticus
+BJAM1	Bathynomus jamesi
+LEXO1	Ligia exotica
+MISO1	Ligia oceanica 
+PASU1	Paraplatyarthrus subterraneus
+PPRU1	Porcellionides pruinosus
+STER1	Sphaeroma terebrans
+NBIP1	Nebalia bipes
+LMAC1	Lysiosquilla maculata
+ORAT1	Oratosquilla oratoria
+AMIS1	Agathotanais misakiensis
+PQUI1	Pseudosphyrapus quintolongus
+TKOM1	Tanaella kommritzia
+CSPM1	Cylindroleberidinae sp. MS-2016
+VHIL1	Vargula hilgendorfii
+PHAN1	Photeros annecohenae
+HINC1	Heterocypris incongruens
+NMON1	Notodromas monacha
+CTOR1	Cyprideis torosa
+DSTE1	Darwinula stevensoni 
+PAVE1	Pontocypris avena
+GFRO1	Godzilliognomus frondosus
+PAPL1	Pleomothra apletocheles
+MWIL1	Morlockia williamsi
+XTUL1	Xibalbanus tulumensis
+AAMP1	Amphibalanus amphitrite
+TEJA1	Tetraclita japonica
+PPOL3	Pollicipes pollicipes
+FCAN1	Folsomia candida
+OCIN1	Orchesella cincta
+POGO1	Pogonognathellus sp. AD-2013
+TQIN1	Tomocerus qinae
+AMAR1	Anurida maritima
+LWEB1	Lepidocampa weberi
+OJAP1	Occasjapyx japonicus
+OCSI1	Octostigma sinensis
+ACER1	Acerentomon sp. AD-2013
+BAMO1	Baculentulus morikawai
+FTAK1	Filientomon takanawanum
+NNIP1	Nipponentomon nippon
+ESAK1	Eosentomon sakura
+MHRA1	Machilis hrabei
+BATR1	Blaberus atropos
+PAME3	Periplaneta americana
+BGER4	Blattella germanica
+CSEC1	Cryptotermes secundus
+PSIM1	Prorhinotermes simplex
+ZNEV1	Zootermopsis nevadensis
+AINS1	Amphizoa insolens
+CJAP1	Cybister japonicus
+GMAR2	Gyrinus marinus
+PPYR3	Photinus pyralis
+LEPI1	Lepicerus sp. AD-2013
+OTAU1	Onthophagus taurus
+TCAS1	Tribolium castaneum
+ACHA1	Apachyus charteceus
+FAUR1	Forficula auricularia
+LLUC1	Lipara lucens
+AAEG1	Aedes aegypti
+AGAM1	Anopheles gambiae
+AMER1	Anopheles merus
+DMEL1	Drosophila melanogaster
+DPSE1	Drosophila pseudoobscura
+EHIA1	Cirrula hians
+SSTA1	Scatella stagnalis
+BCOP1	Bradysia coprophila
+AJAP1	Aposthonia japonica
+BAET1	Baetis sp. AD-2013
+CDIP1	Cloeon dipterum
+APIS1	Acyrthosiphon pisum
+CVUL1	Cercopis vulnerata
+CLEC1	Cimex lectularius
+TRCA1	Trichocorixa calva
+NLUG1	Nilaparvata lugens
+GBUE1	Gerris buenoi
+NELO1	Notostira elongata
+RPRO1	Rhodnius prolixus
+AMEL1	Apis mellifera
+CVIR1	Chrysis viridula
+NFUL1	Nylanderia fulva
+NVIT1	Nasonia vitripennis
+NDEG1	Nemophora degeerella
+BMOR1	Bombyx mori
+SFRU1	Spodoptera frugiperda
+DPLE1	Danaus plexippus plexippus
+PEUR1	Parides eurimedes
+ZCES1	Zerene cesonia
+HFOR1	Hierodula formosana
+BHYE1	Boreus hyemalis
+CCOR1	Corydalus cornutus
+CSIM1	Ctenochauliodes similis
+CNIP1	Chrysoperla nipponensis
+ISEL1	Ischnura elegans
+ISEN1	Ischnura senegalensis
+CBOL1	Cordulegaster boltonii
+LMIG1	Locusta migratoria manilensis
+GRYL1	Gryllotalpa sp. AD-2013
+TSUB1	Tetrix subulata
+AASP1	Aretaon asperrimus
+TCAL1	Timema californicum
+MGAL1	Menopon gallinae
+PHUM1	Pediculus humanus
+FLAV1	Flavoperla sp. YW-2014
+EBRI1	Ectopsocus briggsi
+LIPO1	Liposcelis sp. PH-2016
+CGAL1	Ceratophyllus gallinae
+CFEL1	Ctenocephalides felis
+XVES1	Xenos vesparum
+TPAL2	Thrips palmi
+HYDR1	Hydroptila sp. AD-2013
+TGER1	Tricholepidion gertschi
+TDOM1	Thermobia domestica
+AFOR1	Atelura formicaria
+NANO1	Novocrania anomala
+GPYR1	Glottidia pyramidata
+LANA1	Lingula anatina
+HPSI1	Hemithiris psittacea
+LCAL1	Laqueus californianus
+TTRA1	Terebratalia transversa
+MVEN1	Magellania venosa
+BNER1	Bugula neritina
+DFRU1	Dendrobeania fruticosa
+TMEM1	Terminoflustra membranaceotruncata
+WSUB1	Watersipora subtorquata
+ALCY1	Alcyonidium sp. KMK-2022
+CMUC1	Cristatella mucedo
+FSUL1	Fredericella sultana
+PMAG1	Pectinatella magnifica
+BBEL1	Branchiostoma belcheri
+BFLO1	Branchiostoma floridae
+BLAN1	Branchiostoma lanceolatum
+KSUB1	Krohnitta subtilis
+PDRA1	Pterosagitta draco
+FHEX1	Flaccisagitta hexaptera
+PGAZ1	Pseudosagitta gazellae
+PSET1	Parasagitta setosa
+SSER1	Serratosagitta serratodentata
+PAEL1	Parasagitta elegans
+EHAM1	Eukrohnia hamata
+PGOT1	Paraspadella gotoi
+SCEP1	Spadella cephaloptera
+ATEN1	Actinia tenebrosa
+NVEC1	Nematostella vectensis
+DCRI1	Dendrophyllia cribrosa
+MVIR1	Morbakka virulenta
+HVUL1	Hydra vulgaris
+RESC1	Rhopilema esculentum
+EBUR1	Eptatretus burgeri
+PETM1	Petromyzon marinus
+ARUT1	Acipenser ruthenus
+PSPA1	Polyodon spathula
+AMCA1	Amia calva
+ATES1	Anabas testudineus
+BSPL1	Betta splendens
+ANGU1	Anguilla anguilla
+SKAU1	Synaphobranchus kaupii
+MMEN1	Menidia menidia
+ENAU1	Echeneis naucrates
+AMEX1	Astyanax mexicanus
+DCLU1	Denticeps clupeoides
+DRER1	Danio rerio
+XCOU1	Xiphophorus couchianus
+KMAR1	Kryptolebias marmoratus
+NWHI1	Nematolebias whitei
+MCYP1	Megalops cyprinoides
+ELUC1	Esox lucius
+GMOR1	Gadus morhua
+BSIN1	Bostrychus sinensis
+BPEC1	Boleophthalmus pectinirostris
+PERM1	Periophthalmus magnuspinnatus
+CCHA1	Chanos chanos
+EELE1	Electrophorus electricus
+EIVI1	Eigenmannia virescens
+MMUR1	Myripristis murdjan
+SORB1	Sphaeramia orbicularis
+LESA1	Lepidogalaxias salamandroides
+ASPA1	Atractosteus spatula
+LOCU1	Lepisosteus oculatus
+AGIG1	Arapaima gigas
+SFOR1	Scleropages formosus
+CLUM1	Cyclopterus lumpus
+SUMB1	Sebastes umbrosus
+SMAX1	Scophthalmus maximus
+ECAL1	Erpetoichthys calabaricus
+POSE1	Polypterus senegalus
+CLMA1	Clarias magur
+AMME1	Ameiurus melas
+MARM1	Mastacembelus armatus
+MALB1	Monopterus albus
+LCHA1	Latimeria chalumnae
+LMEN1	Latimeria menadoensis
+LPRA1	Lepisdosiren pradoxa
+PAET1	Protopterus aethiopicus
+PANN1	Protopterus annectens
+BBOM1	Bombina bombina
+ATRU1	Ascaphus truei
+BROT1	Brachycephalus rotenbergae
+BGAR1	Bufo gargarizans
+ECOQ1	Eleutherodactylus coqui
+ENPU1	Engystomops pustulosus
+LLEI1	Leptobrachium leishanense
+MFIS1	Microhyla fissipes
+UMAH1	Uperoleia mahonyi
+XLAE1	Xenopus laevis
+XTRO1	Xenopus tropicalis
+RTEM1	Rana temporaria
+GSER1	Geotrypetes seraphini
+RBIV1	Rhinatrema bivittatum
+MUNI1	Microcaecilia unicolor
+BYEN1	Batrachuperus yenyuanensis
+HRET1	Hynobius retardatus
+HSTR1	Hydromantes strinatii
+PLCI1	Plethodon cinereus
+SSAL1	Salamandra salamandra
+CHLA1	Chiroxiphia lanceolata
+DNOV1	Dromaius novaehollandiae
+HSAP1	Homo sapiens
+MICE1	Mus musculus
+CDID1	Choloepus didactylus
+DGLI1	Dromiciops gliroides
+OANA1	Ornithorhynchus anatinus
+TACU1	Tachyglossus aculeatus
+ASIN1	Alligator sinensis
+CPOR1	Crocodylus porosus
+SPUN1	Sphenodon punctatus
+PMUR1	Podarcis muralis
+CMYD1	Chelonia mydas
+GEVG1	Gopherus evgoodei
+CPLA1	Chiloscyllium plagiosum
+AMRA1	Amblyraja radiata
+CMIL1	Callorhinchus milii
+LAMP1	Lampea sp. Ct11R
+SAME1	Symbion americanus
+SPAN1	Symbion pandora
+DICY1	Dicyemida sp. 4 KMK-2022
+DIKM1	Dicyemida sp. 5 KMK-2022
+ARUB1	Asterias rubens
+ANJA1	Anneissia japonica
+LVAR1	Lytechinus variegatus
+CHEH1	Chiridota heheva
+BAGR2	Barentsia gracilis
+LNOR1	Loxosomella nordgaardi
+LOKK1	Loxomitra sp. KK-2020
+PCER1	Pedicellina cernua
+DASP1	Diuronotus aspetos
+MLAT1	Mesodasys laticaudatus
+SKOW1	Saccoglossus kowalevskii
+PTFL1	Ptychodera flava
+CEPH1	Cephalodiscus
+RANN1	Rhabdopleura annulata
+CYUS1	Cristaphyes yushini
+PGIG1	Pycnophyes giganteus
+PILY1	Pycnophyes ilyocryptus
+CSTY1	Cateria styx
+DABE1	Dracoderes abei
+FKAL1	Franciscideres kalenesos
+PQUA1	Paracentrophyes quadridentatus
+EOHT1	Echinoderes ohtsukai
+TSEM1	Tubulideres seminoli
+CSPI1	Centroderes spinosus
+SARM1	Semnoderes armiger
+APAU1	Antygomonas paulae
+ZBRI1	Zelinkaderes brightae
+ZYON1	Zelinkaderes yong
+CVAN1	Campyloderes vanhoeffeni
+LMAE1	Limnognathia maerski
+SCON2	Sinonovacula constricta
+SBRO1	Scapharca (Anadara) broughtonii
+DROS1	Dreissena rostriformis
+MARE1	Mya arenaria
+BPLA1	Bathymodiolus/Gigantidas platifrons
+MCOR2	Mytilus unguiculatus
+NTUM1	Nucula tumidula
+CGIG2	Magallana gigas
+CRVI2	Crassostrea virginica
+MHON1	Magallana hongkongensis
+OEDU1	Ostrea edulis
+SGLO1	Saccostrea glomerata
+APUR1	Argopecten purpuratus
+MYES2	Mizuhopecten (Patinopecten) yessoensis
+PMAX1	Pecten maximus
+MMAR2	Margaritifera margaritifera
+CPLI1	Cristaria plicata
+CNIT1	Chaetoderma nitidulum
+FCAU1	Falcidens caudatus
+FSAG1	Falcidens sagittiferus
+SVEN1	Scutopus ventrolineatus
+ADUX1	Architeuthis dux
+CCAL1	Chiroteuthis calyx
+IPYG1	Idiosepius pygmaeus
+NPOM2	Nautilus pompilius
+OBAN1	Onychoteuthis banksii
+OBIM1	Octopus bimaculoides
+ODEL1	Octopoteuthis deletron
+OSIN2	Octopus sinensis
+PHOY1	Pterygioteuthis hoylei
+VINF1	Vampyroteuthis infernalis
+BATT1	Batillaria attramentaria
+HBRA1	Hinea brasiliana
+SECO1	Semisulcospira coreana
+LNYA2	Lanistes nyassanus
+MACO1	Marisa cornuarietis
+PCAN2	Pomacea canaliculata
+PMAC2	Pomacea maculata
+BSIA1	Bithynia siamensis goniomphalos
+CNAV1	Crepidula navicella
+PELE1	Pomatias elegans
+OHUP1	Oncomelania hupensis
+CLAM1	Charonia lampas
+AHEL1	Anentome helena
+HPHY1	Hydatina physis
+RCAR1	Rissoella caribaea
+HANT1	Haminoea antillarum
+LSTA1	Lymnaea stagnalis
+PCOL1	Pseudosuccinea columella
+PACU1	Physella acuta
+BGLA2	Biomphalaria glabrata
+MLEO1	Melibe leonina
+ERUS1	Eubranchus rustyus
+HCRA1	Hermissenda crassicornis - Hermissenda opalescens
+PBUC1	Phylliroe bucephala
+CARY1	Carychium sp.
+ECHI1	Ellobium chinense
+PPAC1	Pythia pachyodon
+AIMM1	Achatina/Lissachatina immaculata
+DRET1	Deroceras reticulatum
+ARVU2	Arion vulgaris
+ACHE1	Aegista chejuensis
+BSIM1	Bradybaena similaris
+FKUR1	Fruticicola (Koreanohadra) kurodana
+PQUE1	Plectotropis quelpartensis
+ABIP1	Alinda biplicata
+CUNI3	Candidula unifasciata
+CASP1	Cornu aspersum
+HLUC1	Helix lucorum
+TPIS1	Theba pisana
+AVAL1	Ambigolimax valentianus
+LFLA1	Limacus flavus
+LMAX1	Limax maximus
+OFLO1	Onchidella floridana
+OREE1	Onchidium reevesii
+MBIL1	Meghimatium bilineatum
+MFRU1	Meghimatium fruhstorferi
+OVER1	Onchidium verrucosum
+PLCA1	Pleurobranchaea californica
+CLAN1	Clione antarctica
+PSOL1	Phallomedusa solida
+CNON1	Costasiella nonatoi - Panderevela nonatoi
+COCE1	Costasiella ocellifera
+COST1	Costasiella sp.1
+CALI1	Caliphylla sp.4
+CANT1	Cyerce aff. antillensis
+CBEA1	Cylindrobulla beauii
+MOUR1	Mourgona sp.5
+AMOD1	Alderia modesta
+APLY1	Aplysiopsis enteromorphae
+EBOO1	Ercolania boodleae
+OHAN1	Olea hansineensis
+PKIN1	Placida kingstoni
+SSMA1	Sacoproteus smaragdinus
+LNEV1	Lobiger nevilli
+ECHL1	Elysia chlorotica
+ECRI1	Elysia crispata
+EHED1	Elysia hedgpethi
+ERUF1	Elysia rufescens
+ETIM1	Elysia timida
+EVEL1	Elysia velutinus
+PIAN1	Plakobranchus ianthobapsus
+THGR1	Thuridilla gracilis
+SIPH1	Siphonaria sp.2
+SNOR1	Siphonaria normalis
+SPEC1	Siphonaria pectinata
+WPEL1	Williamia peltoides
+COJA1	Cocculina japonica
+GAEG2	Gigantopelta aegis
+CSQU2	Chrysomallon squamiferum
+AOSU1	Aphanoconia osumiense
+CLRE1	Clithon retropictum
+NALB1	Nerita albicilla
+NPUL1	Neritina pulligera
+TLIM1	Titiscania limacina
+EOPU1	Eoacmaea pustulata
+LGIG1	Lottia gigantea
+NIFU1	Nipponacmea fuscoviridis
+PSAC1	Patelloida saccharina
+CGRA1	Cellana grata
+CRAD1	Cellana radiata
+PULY1	Patella ulyssiponensis
+FNAT1	Fissurella natalensis
+BMID1	Bayerotrochus midas
+PVEN1	Phasianella ventricosa
+MLAB1	Monodonta labio
+OTAB1	Oxystele tabularis
+PTUR1	Phorcus turbinatus
+TNIG1	Trochus nigropunctatus
+LHYA1	Laevipilina hyalina
+ACGR1	Acanthopleura granulata
+ACRI1	Acanthochitona crinita
+AGEM1	Acanthopleura gemmata
+CAPI1	Chaetopleura apiculata
+CLAR1	Cryptoplax larvaeformis
+COLI1	Chiton olivaceus (Rhyssoplax olivaceus)
+CTUB1	Chiton tuberculatus
+KTUN1	Katharina tunicata
+LRUG1	Leptochiton rugatus
+MMUS1	Mopalia muscosa
+NMIR1	Nuttallochiton mirandus
+TLIN1	Tonicella lineata
+AENT2	Antalis entalis
+GEBO1	Graptacme eborea
+GTOL1	Gadila tolmiei
+ACRA1	Alexandromenia crassa
+AENI1	Apodomenia enigmatica
+AMSP1	Amphimeniidae sp.
+ENTR1	Entonomenia tricarinata
+GPEL1	Gymnomenia pellucida
+HAEG1	Helluoherpia aegiri
+MFOD1	Micromenia fodiens
+MSCH1	Macellomenia schanderi
+MSWE1	Meiomenia swedmarki
+PCUS1	Proneomenia custodiens
+SIMA1	Simrothiella margaritacea
+SSUL1	Stylomenia sulcodoryata
+DORY1	Dorylaimopsis sp. T63
+EUCH1	Euchromadora sp. MIHIF
+HADO1	Halichoanolaimus dolichurus
+LINH1	Linhomoeidae
+GAMM1	Gammarinema sp. T79
+HHER1	Halomonhystera hermesi
+SPSP1	Sphaerolaimus sp. T62
+ANGR1	Anaplectus granulosus
+PSAM1	Plectus sambesii
+DIMA1	Diplogasteroides magnus
+LETE1	Levipalatum texanum
+PAGI1	Parapristionchus giblindavisi
+PRPA1	Pristionchus pacificus
+CELE1	Caenorhabditis elegans
+DPAC1	Diploscapter pachys
+OTIP1	Oscheius tipulae
+AAVE1	Aphelenchus avenae
+BOKI1	Bursaphelenchus okinawaensis
+ANAN1	Acrobeloides nanus
+HALI1	Halicephalobus sp. NKZ332
+HMEP2	Halicephalobus mephisto
+PRED1	Panagrellus redivivus
+PROP1	Propanagrolaimus sp. JU765
+TACE1	Turbatrix aceti
+ALDO1	Allodorylaimus
+EBRE1	Enoplus brevis
+PVUL1	Pontonema vulgare
+PPUN2	Prionchulus punctatus
+TOBR1	Tobrilus sp.
+GOKK1	Gordius sp. KK-2019
+GORD1	Gordionus montsenyensis
+NMUN2	Nectonema munidae
+PVAR2	Paragordius varius
+ARAU1	Argonemertes australiensis
+LEPN3	Leptonemertes chalicophora
+ALAC1	Amphiporus lactifloreus
+NIPP1	Nipponnemertes sp.
+MGRO1	Malacobdella grossa
+PNPE1	Paranemertes peregrina
+AVAI1	Antarctonemertes valida
+TLON1	Tetrastemma longissimum 
+TMEL1	Tetrastemma melanocephalum 
+PBEE1	Protopelagonemertes beebei
+CEHO1	Cephalothrix hongkongiensis
+CESI1	Cephalothrix simula
+CHAM1	Carinoma hamanako
+TPOL1	Tubulanus polymorphus
+CEMA1	Cerebratulus marginatus
+CERE1	Cerebratulus sp. BE-2015
+LLON1	Lineus longissimus
+LSAN2	Lineus sanguineus
+NGEN1	Notospermus geniculatus
+ROCC1	Riseriellus occultus
+BUNI1	Baseodiscus unicolor
+HIJI1	Hubrechtella ijimai
+MSTI1	Meara stichopi
+NWES2	Nemertoderma westbladi
+EBRO2	Epiperipatus broadwayi
+EPPA1	Epiperipatus sp. CB-2018 / Epiperipatus sp. (Panama) MCZ-141126
+EPTR1	Epiperipatus trinidadensis
+ETOT1	Eoperipatus totoro
+EVAG1	Epiperipatus vagans
+MTOR1	Macroperipatus torquatus
+PERS1	Peripatidae sp. Panama MCZ IZ 141128 / Epiperipatus bernali
+PESO1	Peripatus (Epiperipatus) solorzanoi
+EROW2	Euperipatoides rowelli
+KOCC1	Kumbadjena occidentalis
+MINA1	Metaperipatus inae
+OGIL1	Occiperipatoides gilesii
+OKWA1	Opisthopatus kwazululandi
+PBOL1	Peripatopsis bolandi
+CCIN1	Coprinopsis cinerea
+MBRE2	Monosiga brevicollis
+SROS1	Salpingoeca rosetta
+CLIM1	Corallochytrium limacisporum
+NDEL1	Nuclearia delicatula
+SDES1	Sphaerothecum destruens
+COWC1	Capsaspora owczarzaki
+PCHI1	Pigoraptor chileana
+CRFR1	Creolimax fragrantissima
+PAUS1	Phoronis australis
+PHAR1	Phoronopsis harmeri
+PIJI1	Phoronis ijimai
+PPSA1	Phoronis psammophila
+HHON1	Hoilungia hongkongensis
+TRIC1	Trichoplax sp. H2
+SLEU1	Stenostomum leucops
+SSTH1	Stenostomum sthenum
+BSEM1	Bothrioplana semperi
+GNOS1	Gnosonesimida sp. IV CEL-2015
+MLIG1	Macrostomum lignano
+MLIN1	Microstomum lineare
+PJNB1	Psammomacrostomum sp. 2 JNB-2019
+PCRO1	Prostheceraeus crozieri
+ECEL1	Echinoplana celerrima
+LETR1	Leptoplana tremellaris
+PSIP1	Prosthiostomum siphunculus
+GAPP1	Geocentrophora applanata
+PSTA1	Prorhynchus stagnalis
+MILE1	Minona ileanae
+NCOE1	Nematoplana coelogynoporoides
+IHEL1	Itaspiella helgolandica
+MELI1	Mesostoma lingua
+RHYN1	Rhynchomesostoma sp. ER-2019
+RROS1	Rhynchomesostoma rostratum
+DRYU1	Dugesia ryukyuensis
+DUJA1	Dugesia japonica
+GIDO1	Girardia dorotocephala
+GIRA1	Girardia sp. n. ER-2019
+SMED2	Schmidtea mediterranea
+SPOL1	Schmidtea polychroa
+BKEW1	Bipalium kewense
+CBIC1	Caenoplana bicolor
+GQUA1	Geoplana quagga
+IREZ1	Issoca rezendei
+KVEN1	Kontikia ventrolineata
+LERN1	Luteostriata ernesti
+MIGR1	Microplana groga
+MIPL1	Microplana plurioculata
+MISC1	Microplana scharffi
+MNAN1	Microplana nana
+MTER1	Microplana terrestris
+OBRA1	Obama braunsi
+OCAR1	Obama carinata
+ONUN1	Obama nungara
+RSYL1	Rhynchodemus sylvaticus
+PFEL1	Polycelis felina
+PGRA1	Phagocata gracilis
+PMOR1	Phagocata morgani
+PONI1	Polycelis nigra
+PTEN1	Polycelis tenuis
+PTOR1	Planaria torva
+PVEL1	Phagocata velata
+BCAN3	Bdelloura candida
+SCIL1	Sycon ciliatum
+AQUE1	Amphimedon queenslandica
+EMUE1	Ephydatia muelleri
+OMIN1	Oopsacas minuta
+HSPI1	Halicryptus spinulosus
+PCAU1	Priapulus caudatus
+AVAG1	Adineta vaga
+RSOC1	Rotaria socialis
+DCAR1	Didymodactylos carnosus
+BPLI1	Brachionus plicatilis
+HEXE1	Hypsibius exemplaris
+MEPH1	Mesobiotus philippinicus
+PMET1	Paramacrobiotus metropolitanus
+PRIC1	Paramacrobiotus richtersi
+RVAR1	Ramazzottius varieornatus
+RCOR1	Richtersius coronifer
+ETES1	Echiniscus testudo
+ESIG1	Echiniscoides sigismundi
+ODIO1	Oikopleura dioica
+CINT1	Ciona intestinalis
+XBOC1	Xenoturbella bocki
+XPRO1	Xenoturbella profunda
