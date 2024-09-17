@@ -10,8 +10,8 @@ We invite the community to provide suggestions for new data sets and new annotat
 
 ## MATEdb2 database
 
-### Links to data can be found in the [`linksforMATEdb2.txt`](https://github.com/MetazoaPhylogenomicsLab/MATEdb2/blob/main/linksforMATEdb2.txt) file.
-> b3fa060ab451bec4fa0498209b68e2dc0bc2e981
+Links to data can be found in the [`linksforMATEdb2.txt`](https://github.com/MetazoaPhylogenomicsLab/MATEdb2/blob/main/linksforMATEdb2.txt) file.
+>>>>>>> b3fa060ab451bec4fa0498209b68e2dc0bc2e981
 
 ## Data under embargo
 
@@ -78,11 +78,11 @@ Some of the data contained in this database have been generated in our lab and w
 
 Martínez-Redondo, Gemma I., Cargas-Chávez, Carlos, Eleftheriadi, Klara, Benítez-Álvarez, Lisandra, Vázquez-Valls, Marçal & Fernández, Rosa. MATEdb2, a collection of high-quality metazoan proteomes across the Animal Tree of Life to speed up phylogenomic studies. (2024) [https://doi.org/10.1101/2024.02.21.581367](https://doi.org/10.1101/2024.02.21.581367). 
 
-## Metadata (Needs update of columns name and contents)
+## Metadata
 
 MATEdb version 2 comprises 970 species, 961 animals (250 genomes and 711 transcriptomes) and 9 outgroups (7 genomes and 2 transcriptomes). These species belong to at least 628 families which are grouped in 254 orders which are further grouped in 92 different classes. 23,481,754 proteins are included in the final dataset with eggNOG annotation (including some lines without GO term annotation but with annotation of other types) for 16,390,000 of them and FANTASIA annotation for 23,184,398 of them. In the Data folder you can find the **Table_S1.txt** file which contains the metadata for all species in the database.
 
-- Columns Phylum, Lineage, Class, Order, Family, and 'Scientific name' use the described the taxonomy of each species.
+- Columns Phylum, Lineage, Class, Order, Family, and 'Scientific name' use the described the taxonomy of each species. A column with one of the common names of the lineage or speices is also included.
 
 - Taxon ID refers to the id used by [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy).
 
@@ -96,13 +96,11 @@ MATEdb version 2 comprises 970 species, 961 animals (250 genomes and 711 transcr
 
 - Extra refers to some additional information regarding the data origin or assembly.
 
-- BUSCO_Database refers to the BUSCO dataset that was used to estimate the genome completeness.
+- BUSCO results are divided in two: for the results for the Trinity assemblies (for transcriptomes) and for the longest isoform (transcriptomes and genes). For each of them, C, S, D, F, and M refer to the Complete, Complete Single-copy, Complete Duplicated, Fragemented and Missing genes for the dataset, respectively. C+F is the % of Complete plus Fragmented. Busco_Database refers to the BUSCO dataset that was used to estimate the genome completeness, respectively.
 
-- Trinity_C_plus_F, Trinity_C, Trinity_S, Trinity_D, Trinity_F and Trinity_M refer to the % of Complete plus Fragmented, Complete, Complete Single-copy, Complete Duplicated, Fragmented and Missing genes from the Trinity assembly.
+- No. ISOFORMS refers to the number of transcripts or isoforms obtained after Trinity for transcriptomes.
 
-- Protein_Number refers to the final number of proteins after keeping only the longest isoform for each gene.
-
-- C_plus_F, C, S, D, F and M refer to the % of Complete plus Fragmented, Complete, Complete Single-copy, Complete Duplicated, Fragmented and Missing genes after conserving only the longest isoform for each gene.
+- No. GENES is the final number of proteins after keeping only the longest isoform for each gene.
 
 - EggNOG-mapper refers to the number of proteins that have a functional annotation obtained with eggNOG-mapper.
 
