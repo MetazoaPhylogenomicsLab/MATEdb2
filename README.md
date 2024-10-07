@@ -6,7 +6,7 @@ MATEdb2 (Metazoan Assemblies from Transcriptomic Ensembles) is the second versio
 
 We invite the community to provide suggestions for new data sets and new annotation features to be included in subsequent versions, that will be permanently stored in public repositories.
 
-![Number of species and data source included in MATEdb2](Figures/MATEdb2_statistics_figure.png)
+![Number of species included in MATEdb2 and data source](Figures/MATEdb2_statistics_figure.png)
 
 ## MATEdb2 database
 
