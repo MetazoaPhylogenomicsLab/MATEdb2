@@ -10,7 +10,9 @@ We invite the community to provide suggestions for new data sets and new annotat
 
 ## MATEdb2 database
 
-Links to data can be found in the [`linksforMATEdb2.txt`](https://github.com/MetazoaPhylogenomicsLab/MATEdb2/blob/main/linksforMATEdb2.txt) file.
+The full database can be found in [Zenodo](https://zenodo.org/records/14244268)([https://doi.org/10.5281/zenodo.14244267])(https://doi.org/10.5281/zenodo.14244267).
+
+Links to individual files can be found in the [`linksforMATEdb2.txt`](https://github.com/MetazoaPhylogenomicsLab/MATEdb2/blob/main/linksforMATEdb2.txt) file.
 >b3fa060ab451bec4fa0498209b68e2dc0bc2e981
 
 ## Data under embargo
@@ -76,7 +78,7 @@ Some of the data contained in this database have been generated in our lab and w
 
 ## How to cite the data repository
 
-Martínez-Redondo, Gemma I., Cargas-Chávez, Carlos, Eleftheriadi, Klara, Benítez-Álvarez, Lisandra, Vázquez-Valls, Marçal & Fernández, Rosa. MATEdb2, a collection of high-quality metazoan proteomes across the Animal Tree of Life to speed up phylogenomic studies. (2024) [https://doi.org/10.1101/2024.02.21.581367](https://doi.org/10.1101/2024.02.21.581367). 
+Gemma I Martínez-Redondo, Carlos Vargas-Chávez, Klara Eleftheriadi, Lisandra Benítez-Álvarez, Marçal Vázquez-Valls, Rosa Fernández, MATEdb2, a Collection of High-Quality Metazoan Proteomes across the Animal Tree of Life to Speed Up Phylogenomic Studies, Genome Biology and Evolution, Volume 16, Issue 11, November 2024, evae235, [https://doi.org/10.1093/gbe/evae235](https://doi.org/10.1093/gbe/evae235).
 
 ## Metadata
 
