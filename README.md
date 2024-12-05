@@ -82,7 +82,7 @@ Gemma I Martínez-Redondo, Carlos Vargas-Chávez, Klara Eleftheriadi, Lisandra B
 
 ## Metadata
 
-MATEdb version 2 comprises 970 species, 961 animals (250 genomes and 711 transcriptomes) and 9 outgroups (7 genomes and 2 transcriptomes). These species belong to at least 628 families which are grouped in 254 orders which are further grouped in 92 different classes. 23,481,754 proteins are included in the final dataset with eggNOG annotation (including some lines without GO term annotation but with annotation of other types) for 16,390,000 of them and FANTASIA annotation for 23,184,398 of them. In the Data folder you can find the **Table_S1.txt** file which contains the metadata for all species in the database.
+MATEdb version 2 comprises 970 species, 961 animals (250 genomes and 711 transcriptomes) and 9 outgroups (7 genomes and 2 transcriptomes). These species belong to at least 628 families which are grouped in 254 orders which are further grouped in 92 different classes. 23,481,754 proteins are included in the final dataset with eggNOG annotation (including some lines without GO term annotation but with annotation of other types) for 16,390,000 of them and FANTASIA annotation for 23,184,398 of them. In the Supplementary_Data folder you can find the **Table_S1.txt** file which contains the metadata for all species in the database.
 
 - Columns Phylum, Lineage, Class, Order, Family, and 'Scientific name' use the described the taxonomy of each species. A column with one of the common names of the lineage or speices is also included.
 
