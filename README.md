@@ -45,35 +45,6 @@ Some of the data contained in this database have been generated in our lab and w
 
 - *Lineus sanguineus*
 
-- *Bipalium kewense*
-
-- *Caenoplana bicolor*
-
-- *Geoplana quagga*
-
-- *Issoca rezendei*
-
-- *Kontikia ventrolineata*
-
-- *Luteostriata ernesti*
-
-- *Microplana groga*
-
-- *Microplana plurioculata*
-
-- *Microplana scharffi*
-
-- *Microplana nana*
-
-- *Microplana terrestris*
-
-- *Obama braunsi*
-
-- *Obama carinata*
-
-- *Obama nungara*
-
-- *Rhynchodemus sylvaticus*
 </details>
 
 ## How to cite the data repository
